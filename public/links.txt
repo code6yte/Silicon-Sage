@@ -1,0 +1,74 @@
+Frontend	https://roadmap.sh/frontend
+Backend	https://roadmap.sh/backend
+Full Stack	https://roadmap.sh/full-stack
+DevOps	https://roadmap.sh/devops
+Data Analyst	https://roadmap.sh/data-analyst
+AI Engineer	https://roadmap.sh/ai-engineer
+AI and Data Scientist	https://roadmap.sh/ai-data-scientist
+Data Engineer	https://roadmap.sh/data-engineer
+Android	https://roadmap.sh/android
+Machine Learning	https://roadmap.sh/machine-learning
+PostgreSQL	https://roadmap.sh/postgresql-dba
+iOS	https://roadmap.sh/ios
+Blockchain	https://roadmap.sh/blockchain
+QA	https://roadmap.sh/qa
+Software Architect	https://roadmap.sh/software-architect
+Cyber Security	https://roadmap.sh/cyber-security
+UX Design	https://roadmap.sh/ux-design
+Technical Writer	https://roadmap.sh/technical-writer
+Game Developer	https://roadmap.sh/game-developer
+Server Side Game Developer	https://roadmap.sh/server-side-game-developer
+MLOps	https://roadmap.sh/mlops
+Product Manager	https://roadmap.sh/product-manager
+Engineering Manager	https://roadmap.sh/engineering-manager
+Developer Relations	https://roadmap.sh/devrel
+BI Analyst	https://roadmap.sh/bi-analyst
+SQL	https://roadmap.sh/sql
+Computer Science	https://roadmap.sh/computer-science
+React	https://roadmap.sh/react
+Vue	https://roadmap.sh/vue
+Angular	https://roadmap.sh/angular
+JavaScript	https://roadmap.sh/javascript
+TypeScript	https://roadmap.sh/typescript
+Node.js	https://roadmap.sh/nodejs
+Python	https://roadmap.sh/python
+System Design	https://roadmap.sh/system-design
+Java	https://roadmap.sh/java
+ASP.NET Core	https://roadmap.sh/aspnet-core
+API Design	https://roadmap.sh/api-design
+Spring Boot	https://roadmap.sh/spring-boot
+Flutter	https://roadmap.sh/flutter
+C++	https://roadmap.sh/cpp
+Rust	https://roadmap.sh/rust
+Go Roadmap	https://roadmap.sh/golang
+Design and Architecture	https://roadmap.sh/software-design-architecture
+GraphQL	https://roadmap.sh/graphql
+React Native	https://roadmap.sh/react-native
+Design System	https://roadmap.sh/design-system
+Prompt Engineering	https://roadmap.sh/prompt-engineering
+MongoDB	https://roadmap.sh/mongodb
+Linux	https://roadmap.sh/linux
+Kubernetes	https://roadmap.sh/kubernetes
+Docker	https://roadmap.sh/docker
+AWS	https://roadmap.sh/aws
+Terraform	https://roadmap.sh/terraform
+Data Structures & Algorithms	https://roadmap.sh/datastructures-and-algorithms
+Redis	https://roadmap.sh/redis
+Git and GitHub	https://roadmap.sh/git-github
+PHP	https://roadmap.sh/php
+Cloudflare	https://roadmap.sh/cloudflare
+AI Red Teaming	https://roadmap.sh/ai-red-teaming
+AI Agents	https://roadmap.sh/ai-agents
+Next.js	https://roadmap.sh/nextjs
+Code Review	https://roadmap.sh/code-review
+Kotlin	https://roadmap.sh/kotlin
+HTML	https://roadmap.sh/html
+CSS	https://roadmap.sh/css
+Swift & Swift UI	https://roadmap.sh/swift-ui
+Shell / BashNew	https://roadmap.sh/shell-bash
+LaravelNew	https://roadmap.sh/laravel
+ElasticsearchNew	https://roadmap.sh/elasticsearch
+WordPressNew	https://roadmap.sh/wordpress
+Frontend	https://roadmap.sh/frontend/projects
+Backend	https://roadmap.sh/backend/projects
+DevOps	https://roadmap.sh/devops/projects

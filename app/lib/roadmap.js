@@ -1,5 +1,3 @@
-'use server';
-
 import clientPromise from './mongodb';
 
 const dbName = process.env.MONGODB_DB || 'Silicon';

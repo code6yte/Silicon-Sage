@@ -1,4 +1,4 @@
-import { getRoadmapRoles } from '@/lib/roadmap';
+import { getRoadmapRoles } from '@/app/lib/roadmap';
 
 export async function GET() {
   try {

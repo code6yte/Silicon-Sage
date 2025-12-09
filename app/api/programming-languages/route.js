@@ -1,4 +1,4 @@
-import { getProgrammingLanguages } from '@/lib/languages';
+import { getProgrammingLanguages } from '@/app/lib/languages';
 
 export async function GET() {
   try {

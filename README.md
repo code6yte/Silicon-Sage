@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Silicon Sage
+
+Silicon Sage is a web application built with Next.js and Tailwind CSS that provides curated resources and roadmaps for individuals in the IT field. It aims to be a one-stop platform for learning and career development in technology.
+
+## Features
+
+- **Resource Pages:** Curated lists of resources for various IT domains.
+- **Roadmaps:** Learning paths for specific IT roles.
+- **Responsive Design:** Fully responsive layout for all devices.
+- **Contact Form:** A way for users to get in touch.
+
+## Technologies Used
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Headless UI](https://headlessui.com/)
+- [Heroicons](https://heroicons.com/)
 
 ## Getting Started
 
